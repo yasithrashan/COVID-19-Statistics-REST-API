@@ -1,0 +1,8 @@
+[package]
+org = "yasith_rashan"
+name = "covid_statistics"
+version = "0.1.0"
+distribution = "2201.12.6"
+
+[build-options]
+observabilityIncluded = true
